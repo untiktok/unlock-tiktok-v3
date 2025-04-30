@@ -28,9 +28,9 @@ This extension uses **peer-to-peer technology**. By installing, you agree to sec
 
 ## ✅ Get Started
 
-1. Clone or download this repo
-2. Load it as an unpacked extension in your browser (Chrome/Edge)
-3. Click **Connect** and enjoy TikTok with no limits!
+1. Install extension from chrome store
+   https://chromewebstore.google.com/detail/unblock-tiktok-%E2%80%93-seamless/cbajickflblmpjodnjoldpiicfmecmif?authuser=0&hl=en&pli=1
+2. Click **Connect** and enjoy TikTok with no limits!
 
 📄 License
 MIT License — Free for personal and commercial use.
