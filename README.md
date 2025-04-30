@@ -32,9 +32,13 @@ This extension uses **peer-to-peer technology**. By installing, you agree to sec
 2. Load it as an unpacked extension in your browser (Chrome/Edge)
 3. Click **Connect** and enjoy TikTok with no limits!
 
----
+📄 License
+MIT License — Free for personal and commercial use.
 
-### 🛠️ Installation for Developers
+🙌 Support
+Found a bug or have a suggestion?
+Feel free to open an issue or submit a pull request.
 
-```bash
-git clone https://github.com/YOUR-USERNAME/unlock-tiktok-extension.git
+🔓 Unlock TikTok – The easiest way to enjoy unrestricted TikTok access.
+
+
